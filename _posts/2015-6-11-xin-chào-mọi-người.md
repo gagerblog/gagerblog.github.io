@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xin chào tất cả mọi người!
-image: /img/hello_world.jpeg
+published: true
 ---
 
 Xin chào tất cả mọi người!
